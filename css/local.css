@@ -1,0 +1,108 @@
+
+.note {
+	font-size:12px;
+}
+.subheader_light {
+color:rgb(255,125,20);
+}
+#overhang {
+border-bottom:1px solid rgb(43,43,43);
+	-webkit-box-shadow: 0px 3px 5px rgba(0,0,0,.5);
+}
+#overhang h1 {color:white}
+
+h1 {color:rgb(45,45,45)}
+.previous-year {
+	background-color:rgb(45,45,45);
+	border-top:1px dotted rgb(65,65,65)
+}
+
+.previous-year a {
+background-color:rgb(248,248,248);
+color:rgb(45,45,45);
+}
+
+.current-year h1 {
+	color:rgb(45,45,45);
+}
+
+thead th {text-align:center !important;}
+
+#metafail_fieldset {
+border-radius:4px;
+}
+
+#metafail-error {
+	display:none;
+}
+
+#metafail-error p {
+	font-size:12px;
+	margin:0;
+}
+
+.failrate {
+color:rgb(255,60,40);
+}
+
+.top-panel {
+	margin-top:26px;
+	text-align:center;
+	height:180px;
+	}
+.year-frame {
+	border-radius:4px;
+	font-weight:bold;
+	color:rgb(45,45,45);
+	font-size:48px;
+	background-color:rgb(248,248,248);
+	border:1px solid rgb(175,175,175);
+}
+
+#metafail-solution {
+margin-top: 25px;
+height: 180px;
+}
+
+#metafail-fieldset { height: 187px; }
+#cumulative-despair p {
+font-size:12px;
+color:rgb(45,45,45);
+	margin-bottom:0px;
+}
+#fail-performance-descriptor.green { color: rgb(40,200,60);}
+#fail-performance-descriptor.red { color: rgb(200,60,40);}
+.previous-year-wrapper {
+	padding:2em 0 5em 0;
+}
+.previous-year-content {
+	padding: 1em 0 0 1em;
+	background-color:rgb(255,255,255);
+}
+#moar-metafail {
+color: rgb(255,255,255) !important;
+}
+
+
+.win-loss-buttons li a {
+	padding-top:10px;
+	padding-bottom: 10px !important;
+	margin-bottom: 0px !important;
+}
+
+tr.no-pad {
+	padding : 2px !important;
+}
+tr.no-pad td {
+	padding : 2px !important;
+}
+td.no-pad a.button {
+	margin-bottom: 0px !important;
+}
+
+#finish-register-roll {
+	position  : absolute;
+	right: 15px;
+	top: 15px;
+	font-size: 1.5em;
+}
